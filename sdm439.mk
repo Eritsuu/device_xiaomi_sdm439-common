@@ -123,7 +123,7 @@ PRODUCT_PACKAGES += \
     libstdc++.vendor
 
 PRODUCT_PACKAGES += \
-    Snap
+    GrapheneOS-Camera
 
 # Display
 PRODUCT_PACKAGES += \
